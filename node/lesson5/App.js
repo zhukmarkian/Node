@@ -2,6 +2,7 @@ const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
 const appiRouter = require('./router/appi.router');
+const { MONGO_URL, PORT } = require('./configs/config');
 
 const app = express();
 
@@ -13,12 +14,12 @@ app.use(express.static(path.join(__dirname, 'static')));
 
 app.use('/', appiRouter);
 
-app.listen(5000, () => {
-    console.log('App listen 5000');
+app.listen(PORT, () => {
+    console.log(`App listen ${PORT}`);
 });
 
 function _connectDB() {
-    mongoose.connect('mongodb://localhost:27017/my_database', { useNewUrlParser: true, useUnifiedTopology: true });
+    mongoose.connect(MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true });
 
     const { connection } = mongoose;
 
