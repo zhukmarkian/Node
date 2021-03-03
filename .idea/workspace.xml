@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1644def7-90b9-4649-9b3a-e0128309211f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/node/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/constan/errorCode.enum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/controller/user.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/dataBase/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/error/error.messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/midleware/user.midleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/router/appi.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/router/user.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson4/service/user.service.js" afterDir="false" />
+    <list default="true" id="1644def7-90b9-4649-9b3a-e0128309211f" name="Default Changelist" comment="aaa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/lesson4/service/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson4/service/user.service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -43,9 +34,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.28" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Use96\Desktop\untitled5\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="C:\Users\Use96\AppData\Roaming\JetBrains\WebStorm2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -71,7 +70,7 @@
       <workItem from="1613600181226" duration="17283000" />
       <workItem from="1613898753155" duration="20924000" />
       <workItem from="1614003110477" duration="43320000" />
-      <workItem from="1614593654501" duration="5421000" />
+      <workItem from="1614593654501" duration="12174000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1613999968480</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614188650801</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aaa">
+      <created>1614620330286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614620330286</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +102,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaa" />
     <option name="LAST_COMMIT_MESSAGE" value="aaa" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
