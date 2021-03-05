@@ -3,7 +3,7 @@ const router = require('express').Router();
 const { carController } = require('../controller');
 const { carMiddleware } = require('../midleware');
 
-router.get('/cars', carController.getAllCars);
+router.get('/', carController.getAllCars);
 
 router.get('/:id', carMiddleware.isCarValid, carController.getCarsById);
 

@@ -4,7 +4,7 @@ const errorCode = require('../constan/errorCode.enum');
 module.exports = {
     getAllUsers: async (req, res) => {
         try {
-            const users = await userService.findUsers();
+            const users = await userService.findUsers(req.query);
             res.json(users);
         } catch (e) {
             res.status(errorCode.BAD_REQUEST).json(e.message);
