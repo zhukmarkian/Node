@@ -2,50 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1644def7-90b9-4649-9b3a-e0128309211f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/node/lesson6/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/configs/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/constan/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/constan/errorCode.enum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/constan/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/constan/regexp.enum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/controller/auth.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/controller/car.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/controller/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/controller/user.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/dataBase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/dataBase/models/Car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/dataBase/models/O_Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/dataBase/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/dataBase/models/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/error/error.messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/error/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/helpers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/helpers/password.helper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/helpers/tokinizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/midleware/auth.middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/midleware/car.midleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/midleware/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/midleware/user.midleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/router/appi.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/router/auth.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/router/car.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/router/user.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/service/car.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/service/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/service/user.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/validators/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/validators/user/create-user.validator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/lesson6/validators/user/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/configs/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/constan/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/constan/emailActions.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/constan/errorCode.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/constan/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/constan/regexp.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/controller/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/controller/car.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/controller/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/controller/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/dataBase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/dataBase/models/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/dataBase/models/O_Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/dataBase/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/dataBase/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/email-templates/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/email-templates/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/email-templates/template.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/email-templates/user-blocked.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/email-templates/welcome.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/error/error.messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/error/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/helpers/password.helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/helpers/tokinizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/midleware/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/midleware/car.midleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/midleware/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/midleware/user.midleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/router/appi.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/router/auth.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/router/car.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/router/user.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/service/car.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/service/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/service/mail.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/service/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/validators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/validators/user/create-user.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/lesson7/validators/user/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson3/controller/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson3/controller/user.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson3/dataBase/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson3/dataBase/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson3/error/error.messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson3/error/error.messages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson3/midleware/user.midleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson3/midleware/user.midleware.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson3/service/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson3/service/user.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson5/controller/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson5/controller/user.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson5/dataBase/models/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson5/dataBase/models/Car.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson5/router/car.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson5/router/car.router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/lesson5/service/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/lesson5/service/user.service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -57,15 +55,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1ocyTLVYce2au2rBIiAtxc79ZEc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -81,6 +77,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.28" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -117,7 +114,8 @@
       <workItem from="1614003110477" duration="43320000" />
       <workItem from="1614593654501" duration="19571000" />
       <workItem from="1614850301869" duration="9295000" />
-      <workItem from="1614963807918" duration="1663000" />
+      <workItem from="1614963807918" duration="12956000" />
+      <workItem from="1615381809504" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1613999968480</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614788985484</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="aaa">
+      <created>1614965537414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614965537414</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
